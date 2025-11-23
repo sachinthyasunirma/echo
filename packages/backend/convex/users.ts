@@ -7,3 +7,5 @@ export const getMany = query({
     return users;
   },
 });
+
+// export const addUser = 
